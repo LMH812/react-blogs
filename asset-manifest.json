@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-blogs/static/css/main.6369a6bb.chunk.css",
+    "main.js": "/react-blogs/static/js/main.729dcde3.chunk.js",
+    "main.js.map": "/react-blogs/static/js/main.729dcde3.chunk.js.map",
+    "runtime-main.js": "/react-blogs/static/js/runtime-main.3c1622de.js",
+    "runtime-main.js.map": "/react-blogs/static/js/runtime-main.3c1622de.js.map",
+    "static/js/2.6c1a8c69.chunk.js": "/react-blogs/static/js/2.6c1a8c69.chunk.js",
+    "static/js/2.6c1a8c69.chunk.js.map": "/react-blogs/static/js/2.6c1a8c69.chunk.js.map",
+    "static/css/3.368e3dfb.chunk.css": "/react-blogs/static/css/3.368e3dfb.chunk.css",
+    "static/js/3.9bf8a31c.chunk.js": "/react-blogs/static/js/3.9bf8a31c.chunk.js",
+    "static/js/3.9bf8a31c.chunk.js.map": "/react-blogs/static/js/3.9bf8a31c.chunk.js.map",
+    "static/css/4.368e3dfb.chunk.css": "/react-blogs/static/css/4.368e3dfb.chunk.css",
+    "static/js/4.09ac2090.chunk.js": "/react-blogs/static/js/4.09ac2090.chunk.js",
+    "static/js/4.09ac2090.chunk.js.map": "/react-blogs/static/js/4.09ac2090.chunk.js.map",
+    "static/css/5.5bd29f23.chunk.css": "/react-blogs/static/css/5.5bd29f23.chunk.css",
+    "static/js/5.67d158d0.chunk.js": "/react-blogs/static/js/5.67d158d0.chunk.js",
+    "static/js/5.67d158d0.chunk.js.map": "/react-blogs/static/js/5.67d158d0.chunk.js.map",
+    "index.html": "/react-blogs/index.html",
+    "static/css/3.368e3dfb.chunk.css.map": "/react-blogs/static/css/3.368e3dfb.chunk.css.map",
+    "static/css/4.368e3dfb.chunk.css.map": "/react-blogs/static/css/4.368e3dfb.chunk.css.map",
+    "static/css/5.5bd29f23.chunk.css.map": "/react-blogs/static/css/5.5bd29f23.chunk.css.map",
+    "static/css/main.6369a6bb.chunk.css.map": "/react-blogs/static/css/main.6369a6bb.chunk.css.map",
+    "static/js/2.6c1a8c69.chunk.js.LICENSE.txt": "/react-blogs/static/js/2.6c1a8c69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c1622de.js",
+    "static/js/2.6c1a8c69.chunk.js",
+    "static/css/main.6369a6bb.chunk.css",
+    "static/js/main.729dcde3.chunk.js"
+  ]
+}

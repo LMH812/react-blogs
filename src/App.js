@@ -1,5 +1,5 @@
 import React, { Suspense } from 'react'
-import { Route, Switch } from 'react-router-dom'
+import { Route, Switch, Redirect } from 'react-router-dom'
 // import NewMeetUp from './page/NewMeetup'
 // import Favorites from './page/Favorites'
 // import AllMeetups from './page/AllMeetups'
@@ -22,6 +22,9 @@ function App() {
                     </Route>
                     <Route path="/new-meetup">
                         <NewMeetUp />
+                    </Route>
+                    <Route path="*">
+                        <Redirect to="/" />
                     </Route>
                 </Switch>
             </Suspense>

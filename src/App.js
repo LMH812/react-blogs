@@ -14,7 +14,7 @@ function App() {
         <Layout>
             <Suspense fallback={<p>loading...</p>}>
                 <Switch>
-                    <Route exact path="/">
+                    <Route exact path="*/">
                         <AllMeetups />
                     </Route>
                     <Route path="/favorites">
